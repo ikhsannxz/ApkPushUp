@@ -138,4 +138,4 @@ Possible entities:
 - notifications;
 - workout_programs;
 - exercise_types;
-- leaderboard_snapshots.
+- leaderboard_snapshots
